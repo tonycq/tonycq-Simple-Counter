@@ -1,0 +1,26 @@
+.bigCounter {
+  text-align: center;
+  background: black;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+  border-radius: 10px;
+}
+
+.bigCounter div {
+  display: inline-block;
+  font-size: 40px;
+  line-height: 60px;
+  height: 60px;
+  width: 40px;
+  background: #101010;
+  color: white;
+  padding: 10px;
+  margin: 5px;
+  border-radius: 5px;
+}
+
+.calendar {
+  margin-right: 20px;
+}
